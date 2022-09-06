@@ -15,6 +15,9 @@ Probability of finding a mine:
 - Intermediate level - 40/256 (15.63%)
 - Advanced level - 99/484 (20.45%)
 
+This implementation in C focuses on utilising arrays learnt from COMP1511 (Programming Fundamentals). 
+Additionaly it features implementations of switch statments and Makefile.  
+
 ## Instructions
 Just compile and run it. A Makefile is provided for simplicity. The game is written for linux terminal.
 
