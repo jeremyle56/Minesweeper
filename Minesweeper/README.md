@@ -7,7 +7,7 @@ If a cell where is mine is located is opened then the game is lost, else we are 
 
 There are three levels for this game: 
 1. **Beginner** - 9 * 9 Board and 10 Mines
-2. **INTERMEDIATE - 16 * 16 Board and 40 Mines
+2. **INTERMEDIATE** - 16 * 16 Board and 40 Mines
 3. **ADVANCED** - 22 * 22 Board and 99 Mines
 
 Probability of finding a mine:
