@@ -1,2 +1,2 @@
 # Personal-Projects
-A collection of personal projects. Each project is based off content from different courses. 
+A collection of my personal projects. Each focusing on different skills learnt from UNSW Computer Science courses.
