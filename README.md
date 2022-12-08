@@ -32,3 +32,5 @@ Just regular Minesweeper stuff. Except cells only break one at a time making it 
 ![screenshot3](screenshots/screenshot3.png)
 
 Have fun playing the game :D
+
+Note: This code uses global variables. Global variables are often considered bad style and sometimes break things.
