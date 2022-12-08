@@ -25,10 +25,10 @@ Just compile and run it. A Makefile is provided for simplicity. The game is writ
 Just regular Minesweeper stuff. Except cells only break one at a time making it slighlty more difficult. 
 
 ## Screenshots
-![screenshot1](https://user-images.githubusercontent.com/112688727/188560365-070617b9-bc17-476e-8353-248a1da60b29.png)
+![screenshot1](screenshots/screenshot1.png)
 
-![screenshot2](https://user-images.githubusercontent.com/112688727/188560383-0c571392-44b3-43a3-84e5-7cea9fccbbc9.png)
+![screenshot2](screenshots/screenshot2.png)
 
-![screenshot3](https://user-images.githubusercontent.com/112688727/188560389-6ae4c221-95f3-46fd-b80f-59fab2f94cab.png)
+![screenshot3](screenshots/screenshot3.png)
 
 Have fun playing the game :D
